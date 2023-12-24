@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on blank
 - 📫 How to reach me Liam358 on discord
+- I'm an 8 year old kid.
 
 <!---
 Liam358/Liam358 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
