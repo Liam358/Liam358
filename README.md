@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Liam358
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on blank
-- 📫 How to reach me Liam358 on discord
+- 🌱 I’m currently learning how batch files work
+- 📫 You can reach me on discord, my name is Liam358.
 - I'm an 8 year old kid.
 
 <!---
